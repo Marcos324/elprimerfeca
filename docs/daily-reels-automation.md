@@ -8,7 +8,7 @@ Target timezone: `America/Argentina/Buenos_Aires`.
 
 - Main story Reel: publish at 07:00 daily. Automation should start at 06:30 to allow research, script, Seedance generation, QA, and publishing.
 - Category Reel: publish at 07:30 daily. Automation should start at 07:00 to allow research, script, Seedance generation, QA, and publishing.
-- One-off 2026-09-08 special: publish a third Reel at 08:00 Argentina. Automation should start at 07:30. This slot should answer the public reaction to EL PRIMER FECA's launch: criticism, fear, and uncertainty about AI replacing journalism. It must be an editorial/transparency piece, not a third generic news item.
+- Third story Reel: publish at 08:00 daily. Automation should start at 07:30 to allow research, script, Seedance generation, QA, and publishing. This slot is permanent as of Santi's 2026-09-08 instruction: three EL PRIMER FECA publications per day between 07:00 and 08:00 Argentina.
 
 If generation or Meta ingestion runs long, publish as soon as QA passes and record the delay. Never publish a known-bad video only to hit the clock.
 
@@ -30,7 +30,7 @@ Slots:
 
 - `main-0700`
 - `category-0730`
-- `special-0800` when explicitly scheduled, such as the 2026-09-08 AI/journalism trust response.
+- `third-0800`
 
 Each package should include:
 
@@ -71,6 +71,7 @@ node scripts/primerfeca-content-dedupe.js check --candidate candidate-story.json
 - If the checker returns `duplicate_blocked` or exits non-zero, reject that candidate and choose another story. Do not merely change the title while keeping the same news item.
 - Treat exact source URL overlap, high title similarity, and high topic similarity as blockers. The point is to avoid repeated content, not to find wording loopholes.
 - The 07:30 Reel must also check today's `main-0700` package/log entry before selection, so the second daily video cannot repeat the first one.
+- The 08:00 Reel must check both today's `main-0700` and `category-0730` package/log entries before selection, so the third daily video cannot repeat either earlier morning story.
 - If the same public issue stays dominant for several days, only cover it again when there is a materially new development, a different primary event, and a clearly new angle. In that case, write the dedupe rationale into `candidate-ranking.md` and `production.md`.
 - Save the checker output as `dedupe-check.json` in the package directory for auditability.
 
@@ -139,15 +140,13 @@ Category 07:30 Reel:
 
 Avoid duplicate topics within the previous 7 days when possible. If the same story remains dominant, advance the angle instead of repeating yesterday's framing.
 
-Special 08:00 Reel for 2026-09-08:
+Third 08:00 Reel:
 
-- Topic: a concrete news item that naturally opens the question of AI-generated journalism, public trust, and what a responsible AI-native newsroom should show. Always tell a noticia in this slot too; do not publish a pure meta explainer about EL PRIMER FECA with no reported news peg.
-- Recommended cast: Clara Ferrer as the editorial anchor, Sairi as the AI/technology specialist, and Santi - El Productor as a brief off-camera interruption/background reveal. Use multiple canonical visual references only if the generation route supports preserving all identities reliably; otherwise keep Clara as the visual lead and represent Sairi/El Productor through voice cues, monitors, props, or brief controlled shots.
-- Core stance: do not apologize for using AI and do not pretend the format is human-made. The editorial promise is: sources, doubts, criteria, and corrections visible to the audience.
-- Required line of argument: AI should not replace journalism's public-interest function; EL PRIMER FECA should experiment with new production methods while making verification, uncertainty, and editorial responsibility more visible than legacy media usually does.
-- Avoid defensive PR language, corporate AI-safety theater, or bland "AI is only a tool" framing. The tone should be sharp, self-aware, rigorous, and entertaining.
-- Include at least one memorable formulation close to: "No venimos a reemplazar periodistas. Venimos a poner una redaccion experimental bajo vidrio: fuentes, dudas, criterio y correcciones a la vista."
-- Keep the story first. A good structure is: one current news hook, one verified fact, one uncertainty or disputed point, one transparent-method beat, one closing question. Do not spend more than a few seconds on self-reference.
+- Pick a third distinct story from the 07:00 and 07:30 Reels. This is not a duplicate or recap lane.
+- It may be a sharper editorial/transparency/storytelling slot when the news cycle calls for it, but it must still tell a concrete noticia with sources and a fresh angle.
+- Check today's `main-0700` and `category-0730` packages/log entries before selection. If either earlier package is still in progress or missing, read whatever candidate/log artifacts exist and avoid visible overlap.
+- Rotate characters intelligently across the morning. Do not reuse the same full-segment specialist as 07:30 unless the editorial reason is strong and logged.
+- Save assets under `media/daily/YYYY-MM-DD/third-0800/`.
 
 ## Format
 
