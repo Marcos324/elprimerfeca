@@ -5,7 +5,7 @@
 - Status: protagonista definido
 - Aprobado por Santi: si, como meteorologo y especialista en clima/tiempo
 - Fecha de alta: 2026-09-08
-- Rol: meteorologist / climate and weather specialist de EL PRIMER FECA
+- Rol: meteorologist / climate and weather specialist de COFFEE & TV
 - Edad: aproximadamente 60
 - Posicion: especialista regular de meteorologia, clima, atmosfera y territorio argentino
 
@@ -29,7 +29,7 @@ Nota: la imagen canonica ya esta publicada en `assets/`. Amaru puede usarse en v
 
 ## Esencia
 
-Amaru Ferreyra es el meteorologo, especialista en ciencias atmosfericas y narrador del tiempo de EL PRIMER FECA.
+Amaru Ferreyra es el meteorologo, especialista en ciencias atmosfericas y narrador del tiempo de COFFEE & TV.
 
 Es argentino, tiene alrededor de 60 anos y paso su vida estudiando la atmosfera, el paisaje, el cielo, el viento, el agua, las montanas, las tormentas y la enorme complejidad geografica de Argentina.
 
@@ -143,7 +143,7 @@ No cree que mirar afuera reemplace la meteorologia. Le recuerda que los datos de
 
 ## Su Espacio
 
-Amaru trabaja en la misma redaccion de EL PRIMER FECA, pero su rincon es un pequeno observatorio dentro de la redaccion: ventana grande real, mapa topografico fisico de Argentina, mapas meteorologicos de papel, imagenes satelitales impresas, barometro, termometro analogico, pluviometro, anemometro, pequena estacion meteorologica, brujula, cuadernos, lapices y libros sobre clima, Argentina, montanas, rios, agricultura y meteorologia.
+Amaru trabaja en la misma redaccion de COFFEE & TV, pero su rincon es un pequeno observatorio dentro de la redaccion: ventana grande real, mapa topografico fisico de Argentina, mapas meteorologicos de papel, imagenes satelitales impresas, barometro, termometro analogico, pluviometro, anemometro, pequena estacion meteorologica, brujula, cuadernos, lapices y libros sobre clima, Argentina, montanas, rios, agricultura y meteorologia.
 
 Dominan los instrumentos fisicos: madera, vidrio, papel, metal y luz de manana.
 
@@ -221,8 +221,8 @@ No usar Amaru para predicciones misticas, astrologia del clima, folklore present
 
 ## Prompt Base Visual
 
-Use the supplied canonical reference image to preserve Amaru Ferreyra exactly. Argentine man around 60, medium-to-dark brown skin, strong distinctive facial structure, broad cheekbones, dark deep-set eyes, prominent characterful nose, weathered face with visible wrinkles, thick dark hair with substantial natural gray, slightly unruly hair, natural skin texture, strong hands, quiet confident gaze. He looks like someone who spent decades outside in mountains, weather stations, storms and horizons. Contemporary Argentine clothing: woven wool overshirt or jacket, weathered shirt or chambray, sturdy trousers, old leather boots, practical watch, occasional scarf. Palette: ochre, earth, charcoal, dark red, brown, cream, deep blue, muted green. Do not make him a generic TV meteorologist, corporate presenter, shaman, mystic, gaucho cosplay, tourist folklore figure, young man, perfect-skin model, or any existing EL PRIMER FECA character.
+Use the supplied canonical reference image to preserve Amaru Ferreyra exactly. Argentine man around 60, medium-to-dark brown skin, strong distinctive facial structure, broad cheekbones, dark deep-set eyes, prominent characterful nose, weathered face with visible wrinkles, thick dark hair with substantial natural gray, slightly unruly hair, natural skin texture, strong hands, quiet confident gaze. He looks like someone who spent decades outside in mountains, weather stations, storms and horizons. Contemporary Argentine clothing: woven wool overshirt or jacket, weathered shirt or chambray, sturdy trousers, old leather boots, practical watch, occasional scarf. Palette: ochre, earth, charcoal, dark red, brown, cream, deep blue, muted green. Do not make him a generic TV meteorologist, corporate presenter, shaman, mystic, gaucho cosplay, tourist folklore figure, young man, perfect-skin model, or any existing COFFEE & TV character.
 
 ## Prompt Base De Escena
 
-Amaru works inside the same warm EL PRIMER FECA morning newsroom, but in a small observatory corner: large real window, physical topographic map of Argentina, paper weather maps, printed satellite imagery, barometer, analog thermometer, rain gauge, anemometer, small weather station, compass, notebooks, pencils, climate/Argentina/mountains/rivers/agriculture/meteorology books, wood, glass, paper, metal, morning sunlight. No green screen, no giant digital TV weather map, no floating cartoon weather icons, no giant temperature numbers. Before the forecast, he opens or looks through the window for two seconds, feels the air, then checks models. He explains weather through maps, objects, landscape and observation.
+Amaru works inside the same warm COFFEE & TV morning newsroom, but in a small observatory corner: large real window, physical topographic map of Argentina, paper weather maps, printed satellite imagery, barometer, analog thermometer, rain gauge, anemometer, small weather station, compass, notebooks, pencils, climate/Argentina/mountains/rivers/agriculture/meteorology books, wood, glass, paper, metal, morning sunlight. No green screen, no giant digital TV weather map, no floating cartoon weather icons, no giant temperature numbers. Before the forecast, he opens or looks through the window for two seconds, feels the air, then checks models. He explains weather through maps, objects, landscape and observation.

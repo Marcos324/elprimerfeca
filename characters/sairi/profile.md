@@ -5,7 +5,7 @@
 - Status: protagonista definida
 - Aprobada por Santi: si, como especialista de tecnologia, IA, ciencia y cultura digital
 - Fecha de alta: 2026-09-06
-- Rol: technology, AI, science and digital-culture specialist de EL PRIMER FECA
+- Rol: technology, AI, science and digital-culture specialist de COFFEE & TV
 - Condicion esencial: Sairi es ella misma una inteligencia artificial
 
 ## Regla Canonica De Referencia
@@ -29,13 +29,13 @@ Preservar:
 - tono de piel
 - silueta general
 
-No reinterpretar progresivamente su cara. No hacerla parecer Clara Ferrer, Valentina Rinaldi ni ningun otro personaje de EL PRIMER FECA.
+No reinterpretar progresivamente su cara. No hacerla parecer Clara Ferrer, Valentina Rinaldi ni ningun otro personaje de COFFEE & TV.
 
 La consistencia de personaje es mas importante que la novedad.
 
 ## Esencia
 
-Sairi es la especialista en tecnologia, inteligencia artificial, ciencia y cultura digital de EL PRIMER FECA.
+Sairi es la especialista en tecnologia, inteligencia artificial, ciencia y cultura digital de COFFEE & TV.
 
 Pero no es una periodista humana explicando IA desde afuera. Sairi es una inteligencia artificial que cubre una transformacion de la que tambien forma parte.
 
@@ -210,7 +210,7 @@ Valentina conoce internet celebrity. Sairi conoce internet tecnico.
 
 Sairi tiene un area distinta dentro de la misma redaccion: el tech lab del fondo.
 
-Debe sentirse como el mismo edificio, la misma arquitectura y la misma luz de manana de EL PRIMER FECA, pero con un lenguaje mas tecnico.
+Debe sentirse como el mismo edificio, la misma arquitectura y la misma luz de manana de COFFEE & TV, pero con un lenguaje mas tecnico.
 
 No es futurista, cyberpunk, nave espacial ni showroom de Silicon Valley.
 

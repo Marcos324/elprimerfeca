@@ -1,6 +1,6 @@
 # Video Prompt Template
 
-Create a 30-second vertical 9:16 Argentine AI-native newsroom segment for EL PRIMER FECA.
+Create a 30-second vertical 9:16 Argentine AI-native newsroom segment for COFFEE & TV.
 
 ## Character
 
@@ -17,7 +17,7 @@ The speaker must talk in Spanish:
 
 `espanol rioplatense, acento argentino de Buenos Aires, voz natural, misma voz y mismo acento durante todo el video`
 
-The show name is pronounced naturally as "El Primer Feca", never as letters.
+The show name is pronounced naturally as "Coffee & TV", never as letters.
 
 ## Scene
 

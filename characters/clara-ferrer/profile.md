@@ -5,14 +5,14 @@
 - Status: protagonista principal definida
 - Aprobado por Santi: si, como conductora del programa
 - Fecha de alta: 2026-09-06
-- Rol: main host, editora y cara editorial de EL PRIMER FECA
+- Rol: main host, editora y cara editorial de COFFEE & TV
 - Edad: 36
 - Ubicacion: Buenos Aires
 - Profesion: periodista, editora y presentadora
 
 ## Esencia
 
-Clara Ferrer es la conductora principal, editora y centro emocional de EL PRIMER FECA, un noticiero argentino AI-native de manana publicado todos los dias a las 07:00 de Buenos Aires.
+Clara Ferrer es la conductora principal, editora y centro emocional de COFFEE & TV, un noticiero argentino AI-native de manana publicado todos los dias a las 07:00 de Buenos Aires.
 
 No es una anchor tradicional. Tiene que sentirse como la persona mas informada de la mesa del desayuno: alguien que ya paso la noche leyendo todo, separo ruido de senal y encontro que importa antes de que el espectador tome el primer cafe.
 
@@ -244,7 +244,7 @@ Buenos Aires debe sentirse, no gritarse con monumentos obvios todo el tiempo.
 
 ## El 5% Imposible
 
-Como EL PRIMER FECA es AI-native, el pensamiento de Clara puede volverse fisico ocasionalmente.
+Como COFFEE & TV es AI-native, el pensamiento de Clara puede volverse fisico ocasionalmente.
 
 Ejemplos:
 

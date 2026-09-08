@@ -2,7 +2,7 @@
 
 Slot: special-0800, target 08:00 America/Argentina/Buenos_Aires. Run started late at 2026-09-08T10:30:00Z.
 
-Editorial requirement: concrete current news story that naturally opens AI-generated journalism, public trust, verification, misinformation, media, technology, or institutional accountability. Not a pure EL PRIMER FECA meta explainer.
+Editorial requirement: concrete current news story that naturally opens AI-generated journalism, public trust, verification, misinformation, media, technology, or institutional accountability. Not a pure COFFEE & TV meta explainer.
 
 ## Selected Story
 
@@ -12,7 +12,7 @@ Confirmed fact: Chequeado physically and visually verified the location as Shopp
 
 Uncertainty/dispute: the image date is not established; there are signs compatible with AI editing, but the exact purpose and extent of any modification cannot be proved from the available evidence.
 
-Why this works for the special: the story is a concrete current Argentine news hook about a presidential post, a viral image, AI-edit indicators, and the gap between evidence and political conclusion. It lets EL PRIMER FECA show its method: source, doubt, verified datum, caveat, correction posture.
+Why this works for the special: the story is a concrete current Argentine news hook about a presidential post, a viral image, AI-edit indicators, and the gap between evidence and political conclusion. It lets COFFEE & TV show its method: source, doubt, verified datum, caveat, correction posture.
 
 ## Sources Checked
 
@@ -26,4 +26,4 @@ Why this works for the special: the story is a concrete current Argentine news h
 
 - Do not say "the photo is fake" as a final proven fact; say there are indicators compatible with AI modification.
 - Do not overclaim consumption trends from one month or one image; use INDEC as counterweight to the viral proof claim.
-- Do not frame this as EL PRIMER FECA apologizing for AI. The stance is transparent and confident: AI-native work must show sources, doubts, criteria, and corrections.
+- Do not frame this as COFFEE & TV apologizing for AI. The stance is transparent and confident: AI-native work must show sources, doubts, criteria, and corrections.

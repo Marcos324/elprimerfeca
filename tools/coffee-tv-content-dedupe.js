@@ -9,15 +9,15 @@ const DEFAULT_LOG = path.join(ROOT, 'state', 'daily-reels-log.json');
 const STOPWORDS = new Set([
   'a', 'al', 'algo', 'ante', 'argentina', 'argentino', 'argentinos', 'asi', 'bajo', 'como',
   'con', 'contra', 'cuando', 'de', 'del', 'desde', 'dia', 'dos', 'el', 'ella', 'en', 'entre',
-  'era', 'es', 'esa', 'ese', 'eso', 'esta', 'este', 'esto', 'feca', 'fue', 'hay', 'hoy',
+  'era', 'es', 'esa', 'ese', 'eso', 'esta', 'este', 'esto', 'coffee', 'fue', 'hay', 'hoy',
   'la', 'las', 'le', 'lo', 'los', 'mas', 'me', 'no', 'para', 'pero', 'por', 'primer',
   'que', 'se', 'sin', 'sobre', 'son', 'su', 'sus', 'tambien', 'un', 'una', 'y', 'ya'
 ]);
 
 function usage() {
   console.error(`Usage:
-  node scripts/primerfeca-content-dedupe.js check --candidate candidate-story.json [--log state/daily-reels-log.json]
-  node scripts/primerfeca-content-dedupe.js check --title "TITLE" --story "summary" [--source URL ...]
+  node scripts/coffee-tv-content-dedupe.js check --candidate candidate-story.json [--log state/daily-reels-log.json]
+  node scripts/coffee-tv-content-dedupe.js check --title "TITLE" --story "summary" [--source URL ...]
 
 Candidate JSON fields: title, selected_story or story, sources, date, slot.`);
 }

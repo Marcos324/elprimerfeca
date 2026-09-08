@@ -5,7 +5,7 @@
 - Status: protagonista definida
 - Aprobado por Santi: si, como especialista de espectaculos y chimentos
 - Fecha de alta: 2026-09-06
-- Rol: entertainment, celebrity culture and gossip specialist de EL PRIMER FECA
+- Rol: entertainment, celebrity culture and gossip specialist de COFFEE & TV
 - Edad: adulta joven, aproximadamente 23-26
 - Profesion: periodista de espectaculos, cultura pop, celebridades, internet y chimentos
 
@@ -17,7 +17,7 @@ Usar siempre:
 
 `assets/valentina-rinaldi-canonical-reference-2026-09-06.jpg`
 
-No derivar su apariencia de Clara Ferrer, de conceptos previos de Valentina, de otros presentadores de EL PRIMER FECA ni de anchors femeninas genericas.
+No derivar su apariencia de Clara Ferrer, de conceptos previos de Valentina, de otros presentadores de COFFEE & TV ni de anchors femeninas genericas.
 
 No reinterpretar progresivamente su cara entre generaciones.
 
@@ -25,7 +25,7 @@ La consistencia del personaje es mas importante que la novedad.
 
 ## Core Concept
 
-Valentina Rinaldi es la especialista de espectaculos, cultura celebrity y chimentos de EL PRIMER FECA.
+Valentina Rinaldi es la especialista de espectaculos, cultura celebrity y chimentos de COFFEE & TV.
 
 Es significativamente mas joven que Clara. Es una periodista adulta profesional, nunca adolescente ni menor.
 
@@ -224,7 +224,7 @@ Puede empezar con algo aparentemente trivial y terminar en una observacion inesp
 
 ## Rumor Vs Facto
 
-EL PRIMER FECA tiene estandares factuales. Valentina los cumple.
+COFFEE & TV tiene estandares factuales. Valentina los cumple.
 
 Distingue siempre:
 
@@ -464,7 +464,7 @@ Su humor apunta a absurdidad celebrity, PR, contradicciones publicas, marketing,
 
 ## Ambiente Visual
 
-Mismo universo de redaccion de EL PRIMER FECA, pero su esquina acumula personalidad.
+Mismo universo de redaccion de COFFEE & TV, pero su esquina acumula personalidad.
 
 Tactil, editorial y real, con:
 

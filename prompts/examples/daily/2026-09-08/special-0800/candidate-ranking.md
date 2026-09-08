@@ -14,7 +14,7 @@ Why selected:
 - Visually strong: viral image board, anomaly loupe, INDEC chart, warm newsroom verification board.
 - Not a repeat of today's 07:00 juvenile penal story or 07:30 Goya/culture story.
 
-Dedupe rationale: new topic in EL PRIMER FECA log. No overlap with Malvinas, dollar market context, AI-newsroom manual explainer, juvenile penal regime, or Goya film selection.
+Dedupe rationale: new topic in COFFEE & TV log. No overlap with Malvinas, dollar market context, AI-newsroom manual explainer, juvenile penal regime, or Goya film selection.
 
 ## 2. Deepfake/false quote around Pope Leo XIV visit - Rejected
 
@@ -34,4 +34,4 @@ Why rejected: strong public-harm angle but less current for this exact 2026-09-0
 
 ## Final Editorial Frame
 
-This Reel tells the Shopping Soleil image story first, then uses that story to state EL PRIMER FECA's editorial method: source, doubt, data, correction. The closing question stays on evidence: what does a viral image actually prove?
+This Reel tells the Shopping Soleil image story first, then uses that story to state COFFEE & TV's editorial method: source, doubt, data, correction. The closing question stays on evidence: what does a viral image actually prove?

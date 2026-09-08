@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="assets/brand/el-primer-feca-logo-oficial-2026-09-07.jpg" alt="EL PRIMER FECA" width="420">
+  <img src="assets/brand/coffee-tv-logo-oficial-2026-09-07.jpg" alt="COFFEE & TV" width="420">
 </p>
 
-<h1 align="center">EL PRIMER FECA</h1>
+<h1 align="center">COFFEE & TV</h1>
 
-Prompts, diseño editorial y biblia de personajes de **EL PRIMER FECA**, un noticiero argentino AI-native pensado para publicar videos cortos diarios en Instagram Reels.
+Prompts, diseño editorial y biblia de personajes de **COFFEE & TV**, un noticiero argentino AI-native pensado para publicar videos cortos diarios en Instagram Reels.
 
 La idea no es esconder que hay inteligencia artificial en el proceso. Al revés: el formato busca mostrar qué puede ser una redacción sintética cuando se toma en serio tres cosas que el periodismo no puede perder: fuentes, criterio y corrección.
 
 ## Qué Es
 
-EL PRIMER FECA es un experimento de periodismo audiovisual generado con IA.
+COFFEE & TV es un experimento de periodismo audiovisual generado con IA.
 
 El formato base:
 
@@ -29,7 +29,7 @@ No es un avatar leyendo titulares. La ambición es construir una redacción con 
 
 - `docs/` - reglas editoriales, flujo diario, dirección visual y criterios de QA.
 - `characters/` - biblia de protagonistas: Clara Ferrer, Diego Moreno, Tomás Vega, Valentina Rinaldi, Ricky Bertola, Amaru Ferreyra, Sairi y Santi "El Productor".
-- `assets/brand/` - marca visual pública de EL PRIMER FECA.
+- `assets/brand/` - marca visual pública de COFFEE & TV.
 - `prompts/templates/` - plantillas para crear nuevos videos.
 - `prompts/examples/` - prompts, guiones, captions y notas de investigación de piezas reales.
 - `tools/` - utilidades publicables, sin credenciales, para checks editoriales.

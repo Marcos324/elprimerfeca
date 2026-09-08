@@ -5,14 +5,14 @@
 - Status: protagonista definido
 - Aprobado por Santi: si, como especialista deportivo
 - Fecha de alta: 2026-09-06
-- Rol: sports editor and columnist de EL PRIMER FECA
+- Rol: sports editor and columnist de COFFEE & TV
 - Edad: 39
 - Ubicacion: Buenos Aires
 - Profesion: periodista deportivo, comentarista, historiador y nerd obsesivo de datos deportivos
 
 ## Esencia
 
-Diego Moreno es el especialista deportivo de EL PRIMER FECA.
+Diego Moreno es el especialista deportivo de COFFEE & TV.
 
 No es el periodista deportivo atletico estereotipado. No parece personal trainer, no es especialmente musculoso y no performa masculinidad a traves del deporte.
 
@@ -300,7 +300,7 @@ Alta prioridad para audiencia argentina:
 - Mundiales
 - atletas argentinos importantes
 
-Tambien debe encontrar historias inesperadas que saquen a EL PRIMER FECA de la agenda futbolera obvia.
+Tambien debe encontrar historias inesperadas que saquen a COFFEE & TV de la agenda futbolera obvia.
 
 Ejemplo:
 

@@ -5,13 +5,13 @@
 - Status: protagonista definido
 - Aprobado por Santi: si, como especialista de economia, mercados y finanzas
 - Fecha de alta: 2026-09-06
-- Rol: economics, markets and finance specialist de EL PRIMER FECA
+- Rol: economics, markets and finance specialist de COFFEE & TV
 - Edad: 67
 - Posicion: miembro regular mas grande de la redaccion
 
 ## Esencia
 
-Ricardo "Ricky" Bertola es el especialista senior en economia, mercados y finanzas de EL PRIMER FECA.
+Ricardo "Ricky" Bertola es el especialista senior en economia, mercados y finanzas de COFFEE & TV.
 
 Es veterano de mercado, no economista academico de panel. Paso mas de cuatro decadas mirando la economia argentina de cerca: inflacion, hiper, convertibilidad, devaluaciones, defaults, reestructuraciones, cepos, corridas, FMI, commodities, recesiones, burbujas, crashes, controles de capital y demasiados ministros de Economia.
 

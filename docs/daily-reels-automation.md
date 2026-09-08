@@ -1,4 +1,4 @@
-# EL PRIMER FECA - Daily Reels Automation
+# COFFEE & TV - Daily Reels Automation
 
 Status: approved by Santi on 2026-09-06 for automatic daily Instagram publishing to `@elprimerfeca`.
 
@@ -8,7 +8,7 @@ Target timezone: `America/Argentina/Buenos_Aires`.
 
 - Main story Reel: publish at 07:00 daily. Automation should start at 06:30 to allow research, script, Seedance generation, QA, and publishing.
 - Category Reel: publish at 07:30 daily. Automation should start at 07:00 to allow research, script, Seedance generation, QA, and publishing.
-- Third story Reel: publish at 08:00 daily. Automation should start at 07:30 to allow research, script, Seedance generation, QA, and publishing. This slot is permanent as of Santi's 2026-09-08 instruction: three EL PRIMER FECA publications per day between 07:00 and 08:00 Argentina.
+- Third story Reel: publish at 08:00 daily. Automation should start at 07:30 to allow research, script, Seedance generation, QA, and publishing. This slot is permanent as of Santi's 2026-09-08 instruction: three COFFEE & TV publications per day between 07:00 and 08:00 Argentina.
 
 If generation or Meta ingestion runs long, publish as soon as QA passes and record the delay. Never publish a known-bad video only to hit the clock.
 
@@ -59,13 +59,13 @@ Update `state/daily-reels-log.json` after each successful or failed run.
 
 ## Content Dedupe Gate
 
-Santi's 2026-09-07 no-repeat rule: never repeat an EL PRIMER FECA news item. If a topic was already covered, do not cover it again in the next video or in a later daily Reel unless Santi explicitly asks for a follow-up.
+Santi's 2026-09-07 no-repeat rule: never repeat an COFFEE & TV news item. If a topic was already covered, do not cover it again in the next video or in a later daily Reel unless Santi explicitly asks for a follow-up.
 
 - Before writing the final script or spending video credits, create a candidate object with `date`, `slot`, `title`, `selected_story`, and `sources`.
 - Run the local duplicate checker against the historical Reel log:
 
 ```bash
-node scripts/primerfeca-content-dedupe.js check --candidate candidate-story.json
+node scripts/coffee-tv-content-dedupe.js check --candidate candidate-story.json
 ```
 
 - If the checker returns `duplicate_blocked` or exits non-zero, reject that candidate and choose another story. Do not merely change the title while keeping the same news item.
@@ -164,12 +164,12 @@ Third 08:00 Reel:
 
 ## Opening Cover / Thumbnail
 
-Santi's 2026-09-07 cover rule, corrected at 18:52 UTC: every EL PRIMER FECA daily Reel needs a fully generative image plate in the first frames, like `@lafronterasiri` / La Frontera Siri. The previous subtitle-style banner approach is rejected.
+Santi's 2026-09-07 cover rule, corrected at 18:52 UTC: every COFFEE & TV daily Reel needs a fully generative image plate in the first frames, like `@lafronterasiri` / La Frontera Siri. The previous subtitle-style banner approach is rejected.
 
-- Official logo reference: `assets/brand/el-primer-feca-logo-oficial-2026-09-07.jpg`, sent by Santi on 2026-09-07. The logo is a square editorial coffee mug image with bold black `EL PRIMER FECA` type, an orange sunrise, steam, cyan-blue-violet stripe, newspaper lines, and a Buenos Aires/Obelisco panel. Use this exact file as the brand reference for cover generation and branded props.
+- Official logo reference: `assets/brand/el-primer-coffee-logo-oficial-2026-09-07.jpg`, sent by Santi on 2026-09-07. The logo is a square editorial coffee mug image with bold black `COFFEE & TV` type, an orange sunrise, steam, cyan-blue-violet stripe, newspaper lines, and a Buenos Aires/Obelisco panel. Use this exact file as the brand reference for cover generation and branded props.
 - Choose a short uppercase impact title for the story, usually 2-6 words. It may match the caption title.
-- Generate a 9:16 illustrated editorial cover image for the exact news story before final assembly. Use Higgsfield/GPT Image 2 when available, the selected protagonist's canonical reference image, and the official logo reference so the cover matches the character identity and EL PRIMER FECA newsroom language.
-- The cover must be one coherent generated image, not a video frame with post-production text. Integrate the title inside the generated composition itself, along with the official EL PRIMER FECA logo/brand language and a story-specific visual background.
+- Generate a 9:16 illustrated editorial cover image for the exact news story before final assembly. Use Higgsfield/GPT Image 2 when available, the selected protagonist's canonical reference image, and the official logo reference so the cover matches the character identity and COFFEE & TV newsroom language.
+- The cover must be one coherent generated image, not a video frame with post-production text. Integrate the title inside the generated composition itself, along with the official COFFEE & TV logo/brand language and a story-specific visual background.
 - The title must sit centered in the artwork, large, high-contrast, aesthetically designed, informative, and readable as an Instagram thumbnail. Keep the complete title inside the center-square safe crop.
 - The cover image should be news-specific, not a generic title banner: include the protagonist when useful, the newsroom identity, and one concrete visual metaphor or source prop tied to the story.
 - Forbidden cover shortcuts: subtitle UI text, ASS/SRT overlays, flat top/bottom banners, black rectangles with text, Canva-like stickers pasted onto a video frame, or any title card that looks like an editing overlay instead of generated editorial art.
@@ -190,7 +190,7 @@ Santi's 2026-09-07 feedback, reinforced on 2026-09-08: the cast should feel less
 
 Santi's 2026-09-08 feedback after the launch reaction: public criticism and fear about AI replacing journalism should change the prompt language. Future prompts, especially on 2026-09-08, must make the reporting method visible inside the video. Show an AI-native newsroom that exposes its work instead of hiding the machine behind a fake human performance.
 
-Santi's 2026-09-08 visual correction: use the warmer studio look from the earlier EL PRIMER FECA pilots as the baseline. The room should feel like morning Buenos Aires: warm wood, coffee, newspapers, books, plants, soft sun, paper texture, and human editorial mess. Avoid a cold data-wall aesthetic, blue-neon AI lab, generic corporate dashboard, or overlit TV set.
+Santi's 2026-09-08 visual correction: use the warmer studio look from the earlier COFFEE & TV pilots as the baseline. The room should feel like morning Buenos Aires: warm wood, coffee, newspapers, books, plants, soft sun, paper texture, and human editorial mess. Avoid a cold data-wall aesthetic, blue-neon AI lab, generic corporate dashboard, or overlit TV set.
 
 Santi's 2026-09-08 format direction for tomorrow onward: do not keep the show trapped in the studio. Use AI-native video to send the journalist to the scene when it improves the story. The protagonist can appear at the court, shopping, club, port, station, school, lab, street, theater, stadium, venue, or public location being discussed, or the edit can cut between the warm studio and a generated field scene.
 
@@ -255,4 +255,4 @@ After publish:
 - Send Santi the final published MP4 on WhatsApp.
 - Send Santi the exact `caption.txt` text used for the Instagram description. Do not paraphrase it as a summary.
 
-If Santi asks for the latest/ultimo published EL PRIMER FECA video, inspect `state/daily-reels-log.json`, select the most recent entry with `published: true`, `published_at_utc`, and `final_mp4`, then send that MP4 and the exact caption from its package directory. Do not send generated-but-unpublished work in progress.
+If Santi asks for the latest/ultimo published COFFEE & TV video, inspect `state/daily-reels-log.json`, select the most recent entry with `published: true`, `published_at_utc`, and `final_mp4`, then send that MP4 and the exact caption from its package directory. Do not send generated-but-unpublished work in progress.

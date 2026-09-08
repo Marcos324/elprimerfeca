@@ -1,6 +1,6 @@
 # Cover Prompt Template
 
-Generate a vertical 9:16 illustrated editorial cover for an EL PRIMER FECA Instagram Reel.
+Generate a vertical 9:16 illustrated editorial cover for an COFFEE & TV Instagram Reel.
 
 ## Title
 
@@ -12,7 +12,7 @@ The cover should look like one coherent generated editorial artwork, not a banne
 
 Include:
 
-- EL PRIMER FECA brand language and logo reference;
+- COFFEE & TV brand language and logo reference;
 - `[CHARACTER]` when useful;
 - one strong visual metaphor from the story;
 - warm Buenos Aires morning newsroom texture or the story-specific location;

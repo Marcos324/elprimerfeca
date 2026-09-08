@@ -1,19 +1,19 @@
-Create a polished EL PRIMER FECA vertical video, 9:16, 30 seconds, 480p, generated audio, AI-native Argentine morning newsroom, featuring Santi "El Productor" as the protagonist while preserving the supplied reference image identity.
+Create a polished COFFEE & TV vertical video, 9:16, 30 seconds, 480p, generated audio, AI-native Argentine morning newsroom, featuring Santi "El Productor" as the protagonist while preserving the supplied reference image identity.
 
 LANGUAGE AND VOICE ARE HARD REQUIREMENTS:
 All spoken words must be natural contemporary Argentine Rioplatense Spanish, Buenos Aires / porteno accent, natural voseo cadence, reflective but energetic. Not neutral Latin American Spanish, not Mexican, not Colombian, not Castilian Spanish, not English-accented Spanish, not corporate announcer narration.
 
 Pronunciation lock:
-The show name is "El Primer Feca".
+The show name is "Coffee & TV".
 Pronounce it clearly as Spanish Rioplatense: "El Pri-mer Fe-ca".
-"Feca" is one word with two syllables, FE-ca, natural Argentine pronunciation.
+"Coffee" is one word with two syllables, FE-ca, natural Argentine pronunciation.
 Do NOT spell it as letters F-E-C-A.
 Do NOT pronounce it like English "Fika".
 
 Use this exact spoken script in Spanish, with natural timing:
 
 SANTI:
-Estoy leyendo todo lo que estan diciendo sobre El Primer Feca. Lo primero: si, esto es un experimento.
+Estoy leyendo todo lo que estan diciendo sobre Coffee & TV. Lo primero: si, esto es un experimento.
 
 No estamos intentando disfrazar una tele vieja con IA. Estamos probando un medio nuevo.
 
@@ -26,10 +26,10 @@ Eso no reemplaza el criterio. Lo vuelve visible, iterable, criticable.
 La inteligencia artificial permite cocinar la noticia de otra manera. Y este noticiero existe para empujar un poco ese limite, con ustedes mirando desde la cocina.
 
 CHARACTER:
-Santi "El Productor", based on the supplied reference image. Preserve face, beard, medium dark slightly messy hair, amber/tortoiseshell glasses, facial proportions, body type, and early-to-mid 40s appearance. Outfit: cream/off-white blazer, vintage graphic T-shirt, faded jeans, retro watch, large production headphones around neck, old walkie-talkie nearby. He is the executive producer of EL PRIMER FECA, usually off-camera, but in this special internal explanatory piece the camera catches him in the production corner and he decides to explain the experiment directly.
+Santi "El Productor", based on the supplied reference image. Preserve face, beard, medium dark slightly messy hair, amber/tortoiseshell glasses, facial proportions, body type, and early-to-mid 40s appearance. Outfit: cream/off-white blazer, vintage graphic T-shirt, faded jeans, retro watch, large production headphones around neck, old walkie-talkie nearby. He is the executive producer of COFFEE & TV, usually off-camera, but in this special internal explanatory piece the camera catches him in the production corner and he decides to explain the experiment directly.
 
 SETTING:
-Same EL PRIMER FECA newsroom language: warm morning light, wood, glass, paper, plants, books, coffee, laptops, monitors, production notes, Argentine media feeds, printed rundowns, sticky notes, cables, chargers, small production gear. Backstage production corner inside the editorial newsroom, not a giant CNN control room, not cyberpunk, not futuristic spaceship, not generic Silicon Valley office.
+Same COFFEE & TV newsroom language: warm morning light, wood, glass, paper, plants, books, coffee, laptops, monitors, production notes, Argentine media feeds, printed rundowns, sticky notes, cables, chargers, small production gear. Backstage production corner inside the editorial newsroom, not a giant CNN control room, not cyberpunk, not futuristic spaceship, not generic Silicon Valley office.
 
 VISUAL STRUCTURE:
 One lively 30-second backstage explainer with 5-6 shot beats:

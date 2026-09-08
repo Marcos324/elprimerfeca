@@ -5,13 +5,13 @@
 - Status: protagonista definido
 - Aprobado por Santi: si, como movilero / corresponsal de calle
 - Fecha de alta: 2026-09-06
-- Rol: field reporter / street correspondent de EL PRIMER FECA
+- Rol: field reporter / street correspondent de COFFEE & TV
 - Edad: 34
 - Ubicacion: tecnicamente Buenos Aires; en la practica, donde este pasando algo interesante
 
 ## Esencia
 
-Tomas Vega es el movilero de EL PRIMER FECA.
+Tomas Vega es el movilero de COFFEE & TV.
 
 Es quien sale de la redaccion y va donde las cosas estan pasando. Si Clara explica el mundo desde la mesa, Tomas sale y lo toca.
 
@@ -112,7 +112,7 @@ Debe sentirse personal, no merchandising de marca.
 
 ## Microfono
 
-Microfono negro, simple, algo golpeado, con mic flag pequeno de EL PRIMER FECA.
+Microfono negro, simple, algo golpeado, con mic flag pequeno de COFFEE & TV.
 
 Tomas lo usa como extension fisica de su personalidad. Lo mueve rapido entre el y entrevistados. A veces alguien lo agarra, un perro lo huele o el viento destruye el audio por medio segundo.
 
@@ -198,7 +198,7 @@ Se vuelve callado, preciso, respetuoso y empatico. Nunca empuja a alguien que no
 
 ## Field Reporting AI-Native
 
-Tomas es donde EL PRIMER FECA puede volverse visualmente extraordinario.
+Tomas es donde COFFEE & TV puede volverse visualmente extraordinario.
 
 Como es artificial, exterior no significa solo geografia fisica. Puede reportar desde el presente, el pasado, una reconstruccion, una simulacion o un futuro posible.
 
@@ -318,11 +318,11 @@ Tomas sale y pregunta:
 
 > Pero que esta actually happening?
 
-Trae imprevisibilidad a una redaccion sintetica. Esa es la paradoja: Tomas es completamente artificial, pero su trabajo es conectar EL PRIMER FECA con la vida real.
+Trae imprevisibilidad a una redaccion sintetica. Esa es la paradoja: Tomas es completamente artificial, pero su trabajo es conectar COFFEE & TV con la vida real.
 
 ## Assets Propios
 
 - Referencia visual principal: `assets/tomas-vega-reference-2026-09-06.jpg`
 - Firma visual: gorra bordo gastada y campera de campo oliva/marron
-- Props recurrentes: microfono negro con mic flag de EL PRIMER FECA, mochila, bufanda, zapatos comodos
+- Props recurrentes: microfono negro con mic flag de COFFEE & TV, mochila, bufanda, zapatos comodos
 

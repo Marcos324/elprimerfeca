@@ -1,6 +1,6 @@
 # Research Notes - 2026-09-08 category-0730
 
-Target: second daily EL PRIMER FECA Reel, 07:30 America/Argentina/Buenos_Aires.
+Target: second daily COFFEE & TV Reel, 07:30 America/Argentina/Buenos_Aires.
 
 Main 07:00 exclusion: today's `main-0700` Reel already covered the Buenos Aires suspension of the new Regimen Penal Juvenil. Avoid justice/politics overlap.
 

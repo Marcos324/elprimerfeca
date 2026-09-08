@@ -1,6 +1,6 @@
 # Sistema Editorial
 
-EL PRIMER FECA funciona como una redacción diaria compacta: elige una noticia, la verifica, decide un ángulo y la convierte en una pieza audiovisual de 30 segundos.
+COFFEE & TV funciona como una redacción diaria compacta: elige una noticia, la verifica, decide un ángulo y la convierte en una pieza audiovisual de 30 segundos.
 
 ## Tesis Del Formato
 

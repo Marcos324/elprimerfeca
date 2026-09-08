@@ -1,6 +1,6 @@
 # Assets - Sairi
 
-Referencias visuales, renders, props, fondos y material canonico de Sairi para EL PRIMER FECA.
+Referencias visuales, renders, props, fondos y material canonico de Sairi para COFFEE & TV.
 
 ## Referencia Canonica
 

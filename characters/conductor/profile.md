@@ -9,7 +9,7 @@
 
 ## Rol En El Noticiero
 
-Cara principal de EL PRIMER FECA. Abre episodios, marca el punto editorial y sostiene el tono general.
+Cara principal de COFFEE & TV. Abre episodios, marca el punto editorial y sostiene el tono general.
 
 La conductora principal ya tiene identidad propia: Clara Ferrer. Usar `protagonistas/clara-ferrer/profile.md` como fuente canonica.
 
@@ -30,7 +30,7 @@ La conductora principal ya tiene identidad propia: Clara Ferrer. Usar `protagoni
 - Ropa: por definir.
 - Paleta: por definir.
 - Props: taza de cafe / escritorio / papeles / pantalla de noticias.
-- Ambiente: estudio propio de EL PRIMER FECA.
+- Ambiente: estudio propio de COFFEE & TV.
 
 ## Personalidad Editorial
 

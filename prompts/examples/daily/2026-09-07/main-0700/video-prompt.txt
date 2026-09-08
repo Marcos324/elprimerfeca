@@ -1,4 +1,4 @@
-Create a 30-second vertical Instagram Reel for EL PRIMER FECA, 9:16, 720x1280, generated audio, model Higgsfield Seedance 2.5 (`seedance_2_5`) in omni_reference mode.
+Create a 30-second vertical Instagram Reel for COFFEE & TV, 9:16, 720x1280, generated audio, model Higgsfield Seedance 2.5 (`seedance_2_5`) in omni_reference mode.
 
 Use the supplied Clara Ferrer canonical reference image only:
 protagonistas/clara-ferrer/assets/clara-ferrer-reference-2026-09-06.jpg
@@ -7,9 +7,9 @@ LANGUAGE AND VOICE HARD REQUIREMENTS:
 All spoken words must be natural contemporary Argentine Rioplatense Spanish, Buenos Aires accent, natural voseo cadence, clear morning-news rhythm, not neutral Latin American Spanish, not Mexican, not Colombian, not Castilian, not English-accented Spanish.
 
 Pronunciation lock:
-The show name is "El Primer Feca".
+The show name is "Coffee & TV".
 Pronounce it clearly as Spanish Rioplatense: "El Pri-mer Fe-ca".
-"Feca" is one word with two syllables, FE-ca.
+"Coffee" is one word with two syllables, FE-ca.
 Do NOT spell it as F-E-C-A.
 Do NOT pronounce it like English "fake" or "fika".
 
@@ -33,7 +33,7 @@ Me quedo una pregunta: esto amplia margen diplomatico, o lo achica?
 Esto fue El Pri-mer Fe-ca.
 
 VISUAL STRUCTURE:
-Clara Ferrer sits in the EL PRIMER FECA morning newsroom, warm real Buenos Aires morning light, wood desk, glass, paper, coffee, plants, monitors, and her dark blue notebook with black pen. She is calm, smart, slightly ironic, visibly thinking in real time. Do not make her a generic TV anchor or influencer.
+Clara Ferrer sits in the COFFEE & TV morning newsroom, warm real Buenos Aires morning light, wood desk, glass, paper, coffee, plants, monitors, and her dark blue notebook with black pen. She is calm, smart, slightly ironic, visibly thinking in real time. Do not make her a generic TV anchor or influencer.
 
 Shot flow:
 0-4s: Clara looks down at her blue notebook, then to camera; a newsroom monitor shows a clean South Atlantic map with Argentina, Tierra del Fuego, and Malvinas/Falklands marked neutrally.

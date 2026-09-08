@@ -14,7 +14,7 @@ Major-source scan:
 - Pagina/12: current item "Buenos Aires le puso un freno concreto a la baja de la edad de punibilidad", with 2026-09-08 timestamp.
 - Cronista: current item on a judge suspending the new juvenile penal regime for 60 days in Buenos Aires province.
 - Official/primary source: Boletin Oficial Decreto 875/2026, published 2026-09-07, reglamentacion de la Ley 27.801.
-- International wires: AP/Reuters/Bloomberg search did not surface a current direct wire on the juvenile-regime suspension; AP/FT/other international coverage was stronger on Malvinas, already covered by EL PRIMER FECA on 2026-09-07, so avoided by dedupe rule.
+- International wires: AP/Reuters/Bloomberg search did not surface a current direct wire on the juvenile-regime suspension; AP/FT/other international coverage was stronger on Malvinas, already covered by COFFEE & TV on 2026-09-07, so avoided by dedupe rule.
 
 Selected protagonist story:
 

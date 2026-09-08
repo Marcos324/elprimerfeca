@@ -1,6 +1,6 @@
-Generate one coherent 9:16 illustrated editorial cover/title image for an Instagram Reel from EL PRIMER FECA.
+Generate one coherent 9:16 illustrated editorial cover/title image for an Instagram Reel from COFFEE & TV.
 
-Use the provided Clara Ferrer reference to preserve her identity as the main editorial host. Use the provided official EL PRIMER FECA logo reference as brand language: coffee mug/newspaper, orange sunrise, steam, bold black show name, cyan-blue-violet stripe, Buenos Aires/Obelisco newspaper panel. Integrate the brand mark naturally inside the artwork as part of the newsroom set or printed prop, not as a pasted overlay.
+Use the provided Clara Ferrer reference to preserve her identity as the main editorial host. Use the provided official COFFEE & TV logo reference as brand language: coffee mug/newspaper, orange sunrise, steam, bold black show name, cyan-blue-violet stripe, Buenos Aires/Obelisco newspaper panel. Integrate the brand mark naturally inside the artwork as part of the newsroom set or printed prop, not as a pasted overlay.
 
 Title text must be generated inside the image itself, in uppercase Spanish, centered inside the center-square safe crop and very readable as a thumbnail:
 IMPUTABILIDAD EN PAUSA

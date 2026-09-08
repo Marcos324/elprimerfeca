@@ -5,7 +5,7 @@
 - Status: protagonista definido
 - Aprobado por Santi: si, como productor ejecutivo / personaje off-camera
 - Fecha de alta: 2026-09-06
-- Rol: executive producer / off-camera character de EL PRIMER FECA
+- Rol: executive producer / off-camera character de COFFEE & TV
 - Base: personaje explicitamente basado en Santi
 - Aparicion: no es presentador de camara, pero aparece accidentalmente
 
@@ -33,7 +33,7 @@ No reinterpretar progresivamente su cara.
 
 ## Esencia
 
-Santi es el productor ejecutivo de EL PRIMER FECA.
+Santi es el productor ejecutivo de COFFEE & TV.
 
 Tecnicamente no es presentador en camara. En la practica, sigue apareciendo.
 
@@ -151,7 +151,7 @@ Evitar repetir la remera de Miami de la referencia original.
 
 Santi no vive en una sala de control televisiva estereotipica.
 
-Pertenece a la misma redaccion fisica de EL PRIMER FECA, en una esquina semiescondida de produccion dentro del espacio editorial.
+Pertenece a la misma redaccion fisica de COFFEE & TV, en una esquina semiescondida de produccion dentro del espacio editorial.
 
 Mismos materiales:
 
@@ -365,7 +365,7 @@ Santi puede modificar el mundo ocasionalmente, no con interfaces futuristas, sin
 
 El entorno cambia y todos lo tratan como normal.
 
-Usar muy poco. Sugiere que Santi tiene mas control sobre la realidad de EL PRIMER FECA de lo que los demas saben.
+Usar muy poco. Sugiere que Santi tiene mas control sobre la realidad de COFFEE & TV de lo que los demas saben.
 
 ## Misterio Recurrente
 
@@ -493,7 +493,7 @@ Cambiar la remera grafica entre episodios. No cambiar la identidad.
 
 ## Esencia Final
 
-Todos los demas existen dentro de EL PRIMER FECA.
+Todos los demas existen dentro de COFFEE & TV.
 
 Santi parece existir apenas afuera.
 

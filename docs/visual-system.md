@@ -1,6 +1,6 @@
 # Sistema Visual
 
-EL PRIMER FECA mezcla noticiero matutino argentino, redacción cálida, portada editorial y gramática audiovisual generativa.
+COFFEE & TV mezcla noticiero matutino argentino, redacción cálida, portada editorial y gramática audiovisual generativa.
 
 ## Base Visual
 
@@ -38,7 +38,7 @@ Cada Reel necesita una portada generativa en los primeros frames:
 - título corto en mayúscula;
 - título integrado dentro de la ilustración;
 - centro seguro para miniatura cuadrada;
-- marca EL PRIMER FECA visible;
+- marca COFFEE & TV visible;
 - visual específico de la noticia.
 
 No usar la portada como un cartel plano. Tiene que sentirse como una tapa editorial.

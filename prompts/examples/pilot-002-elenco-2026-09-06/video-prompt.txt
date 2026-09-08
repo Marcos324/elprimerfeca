@@ -1,12 +1,12 @@
-Create a polished internal test video for EL PRIMER FECA, vertical 9:16, 720p, 30 seconds, AI-native Argentine morning newsroom show.
+Create a polished internal test video for COFFEE & TV, vertical 9:16, 720p, 30 seconds, AI-native Argentine morning newsroom show.
 
 LANGUAGE AND VOICE ARE HARD REQUIREMENTS:
 All spoken words must be natural contemporary Argentine Rioplatense Spanish, Buenos Aires / porteno accent, natural voseo cadence, spoken like real morning television conversation, not neutral Latin American Spanish, not Mexican, not Colombian, not Castilian Spanish, not English-accented Spanish, not corporate announcer narration.
 
 Pronunciation lock:
-The show name is "El Primer Feca".
+The show name is "Coffee & TV".
 Pronounce it clearly as Spanish Rioplatense: "El Pri-mer Fe-ca".
-"Feca" is one word with two syllables, FE-ca, natural Argentine pronunciation.
+"Coffee" is one word with two syllables, FE-ca, natural Argentine pronunciation.
 Do NOT spell it as letters F-E-C-A.
 Do NOT pronounce it like English "Fika".
 Do NOT flatten it into neutral Latin American announcer Spanish.
@@ -14,7 +14,7 @@ Do NOT flatten it into neutral Latin American announcer Spanish.
 Use the exact spoken script below, with natural timing and slight conversational overlaps where appropriate:
 
 CLARA:
-Ahora que ya sabes que existe El Primer Feca, falta lo importante: quien te va a ahorrar el doomscrolling.
+Ahora que ya sabes que existe Coffee & TV, falta lo importante: quien te va a ahorrar el doomscrolling.
 
 DIEGO:
 Yo traigo deportes. Y datos inutiles que, lamentablemente, explican bastante.
@@ -35,15 +35,15 @@ SANTI:
 Y yo intento que todo eso entre en treinta segundos.
 
 CLARA:
-Bienvenidos a El Primer Feca.
+Bienvenidos a Coffee & TV.
 
 VISUAL STRUCTURE:
-One continuous energetic newsroom montage inside the same EL PRIMER FECA physical newsroom: warm morning light, wood, glass, paper, plants, books, monitors, coffee, editorial desk. It is not a generic TV studio, not CNN, not a futuristic spaceship, not cyberpunk.
+One continuous energetic newsroom montage inside the same COFFEE & TV physical newsroom: warm morning light, wood, glass, paper, plants, books, monitors, coffee, editorial desk. It is not a generic TV studio, not CNN, not a futuristic spaceship, not cyberpunk.
 
 Use the supplied reference images to preserve the canonical identities:
 - Clara Ferrer: main host/editorial face, blue notebook, black pen, calm intelligence, slightly ironic warmth.
 - Diego Moreno: sports specialist, vintage 1970s tennis headband, mate, sports notebook, playful data nerd.
-- Tomas Vega: field reporter, burgundy baseball cap, battered field jacket, EL PRIMER FECA microphone, outside/street energy.
+- Tomas Vega: field reporter, burgundy baseball cap, battered field jacket, COFFEE & TV microphone, outside/street energy.
 - Valentina Rinaldi: young adult entertainment/culture specialist, platinum messy bob, freckles, piercings, soft androgynous internet-native style, phone and gossip notebook.
 - Ricky Bertola: visibly 67-year-old economics/markets specialist, gray hair, aged skin, old financial calculator, pencil, leather notebook, calm dry wit.
 - Sairi: technology/AI/science specialist, dark hair with warm highlights, distinctive orange/amber round glasses, tech-lab newsroom area, playful technical precision.

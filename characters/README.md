@@ -1,6 +1,6 @@
 # Protagonistas
 
-Biblia de personajes para EL PRIMER FECA.
+Biblia de personajes para COFFEE & TV.
 
 Cada protagonista debe vivir en su propia carpeta y tener, como minimo:
 
@@ -12,11 +12,11 @@ Cada protagonista debe vivir en su propia carpeta y tener, como minimo:
 ## Regla De Oro
 
 No mezclar identidad visual, tokens, sesiones, referencias privadas ni assets de otras cuentas.
-`primerfeca` puede usar infraestructura generica, pero los personajes de EL PRIMER FECA tienen que ser propios.
+`primerfeca` puede usar infraestructura generica, pero los personajes de COFFEE & TV tienen que ser propios.
 
 ## Carpetas Iniciales
 
-- `clara-ferrer/` - conductora principal, editora y cara editorial de EL PRIMER FECA.
+- `clara-ferrer/` - conductora principal, editora y cara editorial de COFFEE & TV.
 - `diego-moreno/` - editor deportivo, columnista, historiador y nerd de datos deportivos.
 - `tomas-vega/` - movilero, corresponsal de calle y reportero de exteriores.
 - `valentina-rinaldi/` - especialista en espectaculos, cultura celebrity y chimentos.
