@@ -25,7 +25,7 @@ Reglas duras:
 - La consistencia de personaje importa mas que la novedad.
 - Amaru debe ser uno de los miembros mas visualmente distintivos del elenco.
 
-Nota: si la imagen canonica todavia no esta publicada en `assets/`, Amaru no debe usarse en video hasta incorporarla.
+Nota: la imagen canonica ya esta publicada en `assets/`. Amaru puede usarse en video solo si esa referencia se pasa explicitamente como referencia de identidad.
 
 ## Esencia
 

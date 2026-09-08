@@ -6,4 +6,4 @@ Assets propios de Amaru Ferreyra. No mezclar con `lafronterasiri`, `sairiagent`,
 
 - `amaru-ferreyra-canonical-reference-2026-09-08.jpg` - imagen aprobada por Santi como referencia visual canonica de Amaru.
 
-Regla: esta imagen es obligatoria para generar a Amaru. Si no esta presente, no usar al personaje en video todavia.
+Regla: esta imagen es obligatoria para generar a Amaru. Usarla como referencia de identidad en todo video, foto, cover o escena donde aparezca.
