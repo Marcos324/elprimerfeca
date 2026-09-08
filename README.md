@@ -1,4 +1,8 @@
-# EL PRIMER FECA
+<p align="center">
+  <img src="assets/brand/el-primer-feca-logo-oficial-2026-09-07.jpg" alt="EL PRIMER FECA" width="420">
+</p>
+
+<h1 align="center">EL PRIMER FECA</h1>
 
 Prompts, diseño editorial y biblia de personajes de **EL PRIMER FECA**, un noticiero argentino AI-native pensado para publicar videos cortos diarios en Instagram Reels.
 
@@ -120,4 +124,3 @@ Los ejemplos reales en `prompts/examples/` muestran cómo se aterriza el sistema
 ## Licencia
 
 Sin licencia por ahora. El repositorio es público para estudio, transparencia y conversación, no como permiso automático para reutilizar marca, personajes o assets.
-
