@@ -128,11 +128,13 @@ Category 07:30 Reel:
   - Diego Moreno: sports.
   - Valentina Rinaldi: entertainment, celebrity culture, internet gossip with verification.
   - Ricky Bertola: economy, markets, inflation, finance, business, money.
-  - Tomas Vega: street/public life, transport, protests, weather, neighborhoods, human-detail reporting.
+  - Amaru Ferreyra: weather, climate, storms, heat, frost, drought, rivers, agriculture, transport and the practical story of the week's atmosphere.
+  - Tomas Vega: street/public life, transport, protests, neighborhoods, human-detail reporting.
   - Sairi: technology, AI, science, digital culture.
   - Clara Ferrer: politics/general/editorial synthesis.
   - Santi - El Productor: only for short gag/interruption/background beat, not as a normal full-time anchor.
 - Character variety matters for the 07:30 slot. Do not repeat the same secondary/full-segment specialist by default on consecutive days or too often in the same week. Check `state/daily-reels-log.json` before selecting; prefer a different approved specialist when two stories are editorially comparable.
+- Monday morning recurring weather ritual: when there is meaningful weather/climate relevance, Amaru Ferreyra can present `EL TIEMPO DE LA SEMANA`, beginning from `Que clase de semana tenemos?` and identifying the week's weather story rather than listing temperatures mechanically. Always include a practical Buenos Aires answer when relevant, but remember Amaru's editorial principle: Argentina is not Buenos Aires.
 - Clara Ferrer can stay fixed as the main 07:00 host, but the second daily video should feel like a rotating ensemble lane. Never force the wrong specialist onto a story just to vary the cast; if the best story clearly belongs to yesterday's character, either advance a materially new angle or choose the next strongest story with a better fresh character fit.
 
 Avoid duplicate topics within the previous 7 days when possible. If the same story remains dominant, advance the angle instead of repeating yesterday's framing.

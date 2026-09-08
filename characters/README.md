@@ -21,6 +21,7 @@ No mezclar identidad visual, tokens, sesiones, referencias privadas ni assets de
 - `tomas-vega/` - movilero, corresponsal de calle y reportero de exteriores.
 - `valentina-rinaldi/` - especialista en espectaculos, cultura celebrity y chimentos.
 - `ricky-bertola/` - especialista senior en economia, mercados y finanzas.
+- `amaru-ferreyra/` - meteorologo, especialista en clima, tiempo y territorio argentino.
 - `sairi/` - especialista en tecnologia, inteligencia artificial, ciencia y cultura digital.
 - `santi-el-productor/` - productor ejecutivo, showrunner y personaje off-camera.
 - `conductor/` - cara principal del noticiero.

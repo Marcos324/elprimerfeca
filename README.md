@@ -28,7 +28,7 @@ No es un avatar leyendo titulares. La ambición es construir una redacción con 
 ## Qué Hay En Este Repo
 
 - `docs/` - reglas editoriales, flujo diario, dirección visual y criterios de QA.
-- `characters/` - biblia de protagonistas: Clara Ferrer, Diego Moreno, Tomás Vega, Valentina Rinaldi, Ricky Bertola, Sairi y Santi "El Productor".
+- `characters/` - biblia de protagonistas: Clara Ferrer, Diego Moreno, Tomás Vega, Valentina Rinaldi, Ricky Bertola, Amaru Ferreyra, Sairi y Santi "El Productor".
 - `assets/brand/` - marca visual pública de EL PRIMER FECA.
 - `prompts/templates/` - plantillas para crear nuevos videos.
 - `prompts/examples/` - prompts, guiones, captions y notas de investigación de piezas reales.
@@ -103,6 +103,7 @@ Eso no es romanticismo open source. Es higiene básica.
 - **Tomás Vega** - movilero, calle y escenas externas.
 - **Valentina Rinaldi** - espectáculos, cultura celebrity e inteligencia de chimentos.
 - **Ricky Bertola** - economía, mercados y finanzas.
+- **Amaru Ferreyra** - meteorología, clima, tiempo y territorio argentino.
 - **Sairi** - tecnología, IA, ciencia y cultura digital.
 - **Santi "El Productor"** - productor ejecutivo, caos controlado y apariciones accidentales.
 
